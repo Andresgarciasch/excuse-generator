@@ -31,7 +31,7 @@ let what = [
 let when = [
   "despues de la goleada",
   "antes de la clase",
-  "duante la clase",
+  "durante la clase",
   "ayer",
   "el otro dia"
 ];
